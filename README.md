@@ -3,6 +3,8 @@ From The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-
 
 I did not check the solutions for these exercises, but all of my solutions pass each of their associated tests.
 
+Completed throughout the day, but once completed they were pushed individually to practice working with git.
+
 The following exercises were part of the main cirriculum:
 
 * helloWorld
